@@ -2,24 +2,61 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(219, 208, 208);
+    background-color: rgb(138, 111, 111);
+    color: white;
+
 }
 h1{
     padding: 10px 0px 0px 0px ;
     text-align: center;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .container{
-    height: 300px;
-    width: 300px;
-    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
     padding-top: 45px;
-    margin-right: 5px;
+    margin-top: 50px;
+    margin-right: 6px;
     float: left;
 }
-.name{
+.name1{
+    background-color: rgb(6, 100, 155);
+    border: 2px solid black;
+    margin-top: -45px;
+    width: 175px;
+    text-align: center;
+    justify-content: center;
+    float: right;
+    font-weight: bold;
+}
+.name2{
+    background-color: rgb(33, 194, 105);
+    border: 2px solid black;
+    margin-top: -45px;
+    width: 175px;
+    text-align: center;
+    justify-content: center;
+    float: right;
+    font-weight: bold;
 
+}
+.name3{
+    background-color: rgb(224, 11, 231);
+    border: 2px solid black;
+    margin-top: -45px;
+    width: 175px;
+    text-align: center;
+    justify-content: center;
+    float: right;
+    font-weight: bold;
+
+}
+.Box{
+    margin-top: 45px;
+    padding: 10px;
 }
 
 
